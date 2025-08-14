@@ -35,7 +35,7 @@ To do this, I created a melted dataset from the data, where our columns were now
 
 How a violin plot typically works is that how wide a plot point goes out is measured by the amount of datapoints that are a specific combination of bloon type & round, but we want the it to be measured by our count column. A way to do this is to expand our dataset so a data row will be repeated 'count' times - this will give us an extremely huge dataframe, but it is a way of going about this problem. This makes it so the amount of datapoints for a specific combination of bloon type & round is the same as the count.
 
-<pre> ```python 
+<pre>
 column_names = bloons.columns.tolist()
 column_names.remove('Round')
 column_names.remove('Total_Bloons')
@@ -55,7 +55,7 @@ print(bloons_expanded)
 plt.figure(figsize=(16, 6))
 
 sb.violinplot(data=bloons_expanded, x='Bloon', y='Round', scale='width', inner='quartile')
-``` </pre>
+</pre>
 
 ![Violin Plot](Violplot.png)
 
