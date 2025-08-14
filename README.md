@@ -7,7 +7,7 @@
 
 # Overview
 
-![Violin Plot](Violin Plot of bloon data.png)
+![Violin Plot](Violplot.png)
 
 # Intro
 
