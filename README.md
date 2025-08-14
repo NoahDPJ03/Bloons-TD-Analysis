@@ -1,11 +1,8 @@
 # Quick Links
-[Overview](#overview)
-
-[Intro](#Intro)
-
-[EDA](#exploratory-data-analysis)
-
-[Dataset (Kaggle)](https://www.kaggle.com/datasets/brandonconrady/bloons-tower-defense-6-rounds-1140)
+- [Overview](#overview)
+- [Intro](#Intro)
+- [EDA](#exploratory-data-analysis)
+- [Dataset (Kaggle)](https://www.kaggle.com/datasets/brandonconrady/bloons-tower-defense-6-rounds-1140)
 
 # Overview
 
