@@ -4,7 +4,8 @@
 [EDA](#exploratory-data-analysis
 
 # Overview
-! [Violin Plot](Violin_Plot_of_bloon_data.png)
+
+![Violin Plot](Violin_Plot_of_bloon_data.png)
 
 # Intro
 
