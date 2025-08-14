@@ -5,7 +5,7 @@
 
 # Overview
 
-![Violin Plot](Violin_Plot_of_bloon_data.png)
+![Violin Plot](Violin Plot of bloon data.png)
 
 # Intro
 
