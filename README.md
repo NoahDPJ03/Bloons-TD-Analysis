@@ -1,11 +1,11 @@
 # Quick Links
 [Overview](#overview)
 [Intro](#Intro)
-[EDA](#exploratory-data-analysis
+[EDA](#exploratory-data-analysis)
 
 # Overview
 
-![Violin Plot](Violin Plot of bloon data.png)
+![Violin Plot](Violin-Plot-of-bloon-data.png)
 
 # Intro
 
