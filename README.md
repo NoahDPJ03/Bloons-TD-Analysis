@@ -5,7 +5,7 @@
 - [Dataset (Kaggle)](https://www.kaggle.com/datasets/brandonconrady/bloons-tower-defense-6-rounds-1140)
 
 # Overview
-<img src="Violplot.png" alt="Viol Plot" width="200"> <img src="PCA.png" alt="PCA" width="200"> <img src="BloonCorrelation.png" alt="Correlation" width="200">
+<img src="Violplot.png" alt="Viol Plot" width="500"> <img src="PCA.png" alt="PCA" width="200"> <img src="BloonCorrelation.png" alt="Correlation" width="200">
 
 
 # Intro
