@@ -18,6 +18,7 @@ The main 2 concepts used in this analysis is expanding data for weighting (so we
 # Exploratory Data Analysis
 
 We first made a simple frequency plot of the bloons to give us an idea of the data, and to see if these frequencies align with our expectations.
+
 ![Frequency](BloonFrequency.png)
 
 We then made a correlation matrix, which showed us that there are very highly correlated bloon types, meaning that some combinations of bloons show up in quite similar rounds.
