@@ -8,6 +8,8 @@
 # Overview
 
 ![Violin Plot](Violplot.png)
+![PCA](PCA.png)
+![Correlation](BloonCorrelation.png)
 
 # Intro
 
